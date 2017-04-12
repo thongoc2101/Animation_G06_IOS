@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var button1Constraint: NSLayoutConstraint!
 
+    
     @IBOutlet weak var button2Constraint: NSLayoutConstraint!
     
     
@@ -23,6 +24,7 @@ class ViewController: UIViewController {
         
         
     }
+    
     
     
     var animationPerformedOnce = false
